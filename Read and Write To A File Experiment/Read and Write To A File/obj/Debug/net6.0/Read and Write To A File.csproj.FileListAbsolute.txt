@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Read and Write To A File Experiment\Read and Write To A File\bin\Debug\net6.0\Read and Write To A File.exe
+C:\Users\Admin\source\repos\Read and Write To A File Experiment\Read and Write To A File\bin\Debug\net6.0\Read and Write To A File.deps.json
+C:\Users\Admin\source\repos\Read and Write To A File Experiment\Read and Write To A File\bin\Debug\net6.0\Read and Write To A File.runtimeconfig.json
+C:\Users\Admin\source\repos\Read and Write To A File Experiment\Read and Write To A File\bin\Debug\net6.0\Read and Write To A File.dll
+C:\Users\Admin\source\repos\Read and Write To A File Experiment\Read and Write To A File\bin\Debug\net6.0\Read and Write To A File.pdb
+C:\Users\Admin\source\repos\Read and Write To A File Experiment\Read and Write To A File\obj\Debug\net6.0\Read and Write To A File.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Read and Write To A File Experiment\Read and Write To A File\obj\Debug\net6.0\Read and Write To A File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Read and Write To A File Experiment\Read and Write To A File\obj\Debug\net6.0\Read and Write To A File.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Read and Write To A File Experiment\Read and Write To A File\obj\Debug\net6.0\Read and Write To A File.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Read and Write To A File Experiment\Read and Write To A File\obj\Debug\net6.0\Read and Write To A File.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Read and Write To A File Experiment\Read and Write To A File\obj\Debug\net6.0\Read and Write To A File.dll
+C:\Users\Admin\source\repos\Read and Write To A File Experiment\Read and Write To A File\obj\Debug\net6.0\refint\Read and Write To A File.dll
+C:\Users\Admin\source\repos\Read and Write To A File Experiment\Read and Write To A File\obj\Debug\net6.0\Read and Write To A File.pdb
+C:\Users\Admin\source\repos\Read and Write To A File Experiment\Read and Write To A File\obj\Debug\net6.0\Read and Write To A File.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Read and Write To A File Experiment\Read and Write To A File\obj\Debug\net6.0\ref\Read and Write To A File.dll
