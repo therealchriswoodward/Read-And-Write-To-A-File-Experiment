@@ -1,0 +1,15 @@
+# Contains lists of files and directories ignored by GIT
+
+# REVIEW: I added some common directories to ignore
+#   as well as removed the bin and obj directories.
+#   Note: The files still exists in the history and will
+#   continue to take up space but at least it won't be
+#   more of them.
+
+# .vs directory contains caches used by Visual Studio
+# You might want to add other IDE cache folders as well
+.vs/
+# bin directory contains the executable from the build step
+bin/
+# bin directory contains intermediate binary files the build step
+obj/
